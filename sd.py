@@ -11,8 +11,8 @@ import time
 print(f"""
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓           
 > › Tool     :- Facebook Auto Creator     
-> › Email    :- @mail.gw domain used ✅
-> › Author   :- AJMAL x GPT
+> › MESSAGE    :- nazar nahi lagan 
+> › Author   :- Shahzada Ajmal 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 """)
 print('\x1b[38;5;208m⇼'*60)
