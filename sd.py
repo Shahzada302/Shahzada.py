@@ -11,7 +11,7 @@ import time
 print(f"""
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓           
 > › Tool     :- Facebook Auto Creator     
-> › MESSAGE    :- nazar nahi lagan 
+> › MESSAGE    :- nazar nahi lagana
 > › Author   :- Shahzada Ajmal 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 """)
