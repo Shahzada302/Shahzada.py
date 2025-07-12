@@ -8,8 +8,9 @@ import time
 print(f"""
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓           
 > › Tool     :- Facebook Auto Creator     
-> › Mode     :- Direct IP, Manual Verify
+> › Mode     :- Direct IP, Auto Verify
 > › Author   :- Shahzada Ajmal 
+> › Creator  :- +923218745502
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 """)
 print('\x1b[38;5;208m⇼'*60)
